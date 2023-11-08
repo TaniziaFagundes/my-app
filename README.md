@@ -1,5 +1,4 @@
-# my-app
-Tutorial Kubernetes
+# Tutorial Kubernetes
 
 ## Implantando um Minikube
 
